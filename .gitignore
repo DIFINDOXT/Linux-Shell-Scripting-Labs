@@ -1,0 +1,5 @@
+# archives and generated files
+Day-01_Files-and-Logs/archive/*
+Day-01_Files-and-Logs/output/*
+Day-01_Files-and-Logs/sandbox/logs/*
+!.keep
