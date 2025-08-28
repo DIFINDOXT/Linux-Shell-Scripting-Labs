@@ -1,5 +1,14 @@
-# archives and generated files
-Day-01_Files-and-Logs/archive/*
-Day-01_Files-and-Logs/output/*
-Day-01_Files-and-Logs/sandbox/logs/*
-!.keep
+# ---- Generated practice artifacts (ignore everywhere) ----
+**/sandbox/**
+**/archive/**
+**/output/**
+
+# ---- Keep screenshots (these should be committed) ----
+!**/screenshots/**
+# (above is a negation for screenshots anywhere in the repo)
+
+# ---- OS/editor noise ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
