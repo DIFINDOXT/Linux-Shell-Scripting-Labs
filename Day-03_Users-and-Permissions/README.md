@@ -33,7 +33,8 @@
 - Remove stale accounts for compliance/security
 
 **Screenshots:**
-*(Optional, since on WSL these may not all work; safe to just show syntax in README)*
+- ![useradd demo](./screenshots/useradd.png)
+- ![userdel demo](./screenshots/deluser.png)
 
 ---
 
@@ -55,9 +56,9 @@
 **Screenshots:**
 ### Screenshots
 - ![Before](./screenshots/ls_before.png)
-- ![644](./screenshots/chmod_644.png)
 - ![755](./screenshots/chmod_755.png)
 - ![600](./screenshots/chmod_600.png)
+- ![Symbolic](./screenshots/chmod_symbolic.png)
 
 ---
 
@@ -78,6 +79,13 @@
 - `chmod` controls *what permissions* are set
 - `chown/chgrp` controls *who owns* the file
 
+
+**Screenshots:**
+### Screenshots
+- ![chown before](./screenshots/chown_before.png)
+- ![chown root](./screenshots/chown_root.png)
+- ![chgrp sudo](./screenshots/chgrp_sudo.png)
+- ![chown back](./screenshots/chown_back.png)
 ---
 
 ### Section 5 — SSH Basics
