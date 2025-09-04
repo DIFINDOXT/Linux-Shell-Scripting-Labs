@@ -15,7 +15,7 @@ We take the security of our Linux shell scripts seriously. If you discover a sec
 
 ### 🚨 For Critical Security Issues:
 - **DO NOT** create a public GitHub issue
-- Send an email to: **[shubhadeep010@.com]** (replace with your email)
+- Send an email to: **[shubhadeep010@.gmailcom]** 
 - Include "SECURITY" in the subject line
 
 ### 📋 Include in Your Report:
