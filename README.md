@@ -42,7 +42,7 @@
 <img alt="Practice Daily" src="https://img.shields.io/badge/Practice-Daily%20Labs-orange?logo=googletagmanager&logoColor=white">
 
 <!-- Optional: Social links (replace handles/URLs) -->
-<a href="https://x.com/https://x.com/XT1396">
+<a href="https://x.com/XT1396">
   <img alt="Follow on X (Twitter)" src="https://img.shields.io/twitter/follow/https://x.com/XT1396?style=social">
 </a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shubhadeep-bhowmik-74b5a214b//">
@@ -88,6 +88,7 @@ chmod +x script.sh
 | 02  | Processes & Cron     | ps, kill, crontab        | 🟡 Intermediate |
 | 03  | Users & Permissions  | chmod, chown, usermod    | 🟡 Intermediate |
 | 04  | Text Parsing         | sed, awk, cut            | 🔴 Advanced     |
+| 05  | Networking           | uname, ss -tuln, uptime  | 🟡 Intermediate |
 
 ---
 
